@@ -1,0 +1,8 @@
+1. Get a list of merchants
+2. Calculate the sum of the payments
+3. Subtract the fees plus applicable discount
+ sum of payment - (fees + discount )
+
+ 4. Generates payment.csv with 2 columns (IBAN and amount in pence)
+ 5. Write Test
+
